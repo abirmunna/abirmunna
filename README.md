@@ -8,7 +8,7 @@
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=abirmunna&show_icons=true&theme=radical)
 
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=abirmunna&langs_count=8&theme=blue-green)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=abirmunna&langs_count=8&theme=blue-green&layout=compact)
 
 <!---
 ahmunnaah/ahmunnaah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
