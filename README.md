@@ -4,12 +4,18 @@
 <h3 align="center">Python web developer skilled in building robust and scalable web apps with FastAPI,proficient in front-end tech like HTML/CSS/JS. Expertise in data science tools like Scikit-Learn, Pandas, TensorFlow, and OpenCV to drive impactful solutions.</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif">
 
-- 👀 I’m interested in AI,ML and IOT projects.
-- 🌱 I’m currently learning AI,ML and IOT.
-- 💞️ I’m looking to collaborate on any kind of works related to AI,ML and IOT.
-- 📫 Reach me through abirmunna091@gmail.com
----
-![Profile View Counter](https://komarev.com/ghpvc/?username=abirmunna)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=abirmunna&label=Profile%20views&color=0e75b6&style=flat" alt="rabirmunna" /> </p>
+
+- 🔭 I’m currently working on **AI,ML and IOT projects**
+
+- 🌱 I’m currently learning **AI,ML and IOT**
+
+- 🤝 I’m looking for help with **any kind of works related to AI,ML and IOT**
+
+- 📫 How to reach me > **[web](https://abirmunna.me)**
+
+- ⚡ Fun fact **I love learning new things**
+
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=abirmunna&show_icons=true&theme=radical)
 
