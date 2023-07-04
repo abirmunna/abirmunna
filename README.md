@@ -20,7 +20,6 @@
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=abirmunna&show_icons=true&theme=radical)
 
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=abirmunna&langs_count=12&theme=blue-green&layout=compact)
 
 
 
