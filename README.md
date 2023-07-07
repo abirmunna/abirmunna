@@ -12,7 +12,7 @@
 
 - 🤝 I’m looking for help with **any kind of works related to AI,ML and IOT**
 
-- 📫 How to reach me > **[web](https://abirmunna.me)**
+- 📫 Visit my portfolio > **[abir](https://abirmunna.me)**
 
 - ⚡ Fun fact **I love learning new things**
 
