@@ -17,8 +17,6 @@
 - ⚡ Fun fact **I love learning new things**
 
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=abirmunna&show_icons=true&theme=radical)
-
 
 
 
