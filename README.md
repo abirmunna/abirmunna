@@ -4,7 +4,8 @@
 <h3 align="center">Python web developer skilled in building robust and scalable web apps with FastAPI,proficient in front-end tech like HTML/CSS/JS. Expertise in data science tools like Scikit-Learn, Pandas, TensorFlow, and OpenCV to drive impactful solutions.</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abirmunna&label=Profile%20views&color=0e75b6&style=flat" alt="rabirmunna" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=abirmunna&label=Profile%20views&color=0e75b6&style=flat" alt="rabirmunna" /> </p>
+</ br>
 
 - 🔭 I’m currently working on **AI,ML and IOT projects**
 
