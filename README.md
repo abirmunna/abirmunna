@@ -5,7 +5,8 @@
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abirmunna&label=Profile%20views&color=0e75b6&style=flat" alt="rabirmunna" /> </p>
-</ br>
+<br>
+<br>
 
 - 🔭 I’m currently working on **AI,ML and IOT projects**
 
