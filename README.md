@@ -16,7 +16,7 @@
 
 - 📫 Visit my portfolio > **[abir](https://abir-resume-67162007e012.herokuapp.com/)**
 
-- ⚡ Fun fact **I love learning new things**
+- ⚡ **I love learning new things**
 
 
 
