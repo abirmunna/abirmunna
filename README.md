@@ -14,7 +14,7 @@
 
 - 🤝 I’m looking for help with **any kind of works related to AI,ML and IOT**
 
-- 📫 Visit my portfolio > **[abir](https://abircv.onrender.com?target=_blank)**
+- 📫 Visit my portfolio > **[abir](https://abircv.onrender.com/?target=_blank)**
 
 - ⚡ **I love learning new things**
 
